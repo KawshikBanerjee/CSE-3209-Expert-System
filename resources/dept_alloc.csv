@@ -1,0 +1,13 @@
+Department,condition,worthy
+Applied Mathematics,math>=15,1
+Biochemistry,chem>=12,1
+Chemical Engineering,chem>=12,1
+Civil Engineering,phy>=15,1
+Computer Science and Engineering,math>=15,1
+Electrical and Electronic Engineering,math>=15,1
+Genetic Engineering and Biotechnology,chem>=12,1
+Mechanical Engineering,phy>=15,1
+Mechatronics Engineering,phy>=15,1
+Pharmacy,chem>=12,1
+Physics,phy>=15,1
+Statistics,math>=15,1
